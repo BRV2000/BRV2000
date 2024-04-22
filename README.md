@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/BRV2000/BRV2000/assets/60752651/c1196c05-6642-4af8-b2be-90350ff8e48b"/>  
+  <img height="150" src="https://github.com/BRV2000/BRV2000/assets/60752651/73f3e1d7-b3dd-49ce-b1a8-b222ae5cc164"/>  
 </div>
 
 ###
@@ -54,16 +54,3 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BRV2000/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/BRV2000/BRV2000/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
