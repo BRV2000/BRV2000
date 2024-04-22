@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://github.com/BRV2000/BRV2000/assets/60752651/6055b9ba-b5af-44da-b9ee-2976cb7b25e8" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://github.com/BRV2000/BRV2000/assets/60752651/fb1305e1-78eb-43c6-ae0e-af76a8f4ca98" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://github.com/BRV2000/BRV2000/assets/60752651/b3204ace-1626-4fba-a081-91720eb3261c" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
