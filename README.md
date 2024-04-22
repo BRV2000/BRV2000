@@ -2,8 +2,6 @@
   <img height="350" width="900" src="https://github.com/BRV2000/BRV2000/assets/60752651/7fdc34e7-9732-4bbf-80e8-1fb8ba59e0be"/>  
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/brandonroblesv/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
