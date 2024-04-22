@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/BRV2000/BRV2000/assets/60752651/ad985011-4e76-4302-84c0-7a02c262e624"/>  
+  <img height="150" width="900" src="https://github.com/BRV2000/BRV2000/assets/60752651/ad985011-4e76-4302-84c0-7a02c262e624"/>  
 </div>
 
 ###
