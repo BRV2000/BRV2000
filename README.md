@@ -44,7 +44,9 @@
 
 <h3 align="left">🔥   My Projects :</h3>
 <div>
-  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+  <a href="https://www.w3schools.com/">React JS Backend</a>
+  <a href="https://www.w3schools.com/">React JS Frontend</a>
+  <a href="https://www.w3schools.com/">.Net Mobile app Cíclica</a>
 </div>
 
 
