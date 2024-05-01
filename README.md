@@ -43,9 +43,15 @@
 ###
 
 <h3 align="left">🔥   My Projects :</h3>
+
 <div align="left">
   <a href="https://github.com/BRV2000/server-by-MERN_Web_Personal">React JS Backend</a>
+</div>
+
+<div>
   <a href="https://github.com/BRV2000/client-by-MERN_Web_Personal">React JS Frontend</a>
+</div>
+<div>
   <a href="https://github.com/BRV2000/CiclicaAppBrandon">.Net Mobile app Cíclica</a>
 </div>
 
